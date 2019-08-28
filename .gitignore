@@ -1,0 +1,6 @@
+output/
+reference_pdbs/
+homology_template_pool/
+interfaces/
+*_log.txt
+*_results.txt
